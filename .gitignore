@@ -1,2 +1,18 @@
-# Google App Engine generated folder
-appengine-generated/
+*.log
+.idea
+.vscode
+.idea/**/*
+.vscode/**/*
+.nyc_output
+mochawesome-report
+.DS_Store
+npm-debug.log.*
+node_modules
+node_modules/**/*
+.eslintcache
+cert
+logs/*
+desktop.ini
+package-lock.json
+.history
+.env
